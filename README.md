@@ -1,9 +1,11 @@
 # 99_Regression_deconvolution
 
-Ti Tree 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree1.ipynb)
+Launch the following Jupyter Notebooks using Binder:
 
-Ti Tree 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree2.ipynb)
+TiTree1.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree1.ipynb)
 
-Ti Tree 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree3.ipynb)
+TiTree2.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree2.ipynb)
 
-Ti Tree 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree4.ipynb)
+TiTree3.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree3.ipynb)
+
+TiTree4.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christurnadge/99_Regression_deconvolution/master?filepath=titree4.ipynb)
